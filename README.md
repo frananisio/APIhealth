@@ -32,4 +32,4 @@ This project uses the API available at https://github.com/frananisio/APIhealth.
 
 ## Project Images
 
-![Imagem da logo da API](URL_da_imagem)(images/logo.png)
+![Imagem da logo da API](https://imgur.com/vSOOgqC)
